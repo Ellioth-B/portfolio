@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -19,6 +19,7 @@
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
@@ -44,5 +45,20 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ellioth-B/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Elliot B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ellioth-B/portfolio/issues"
+  },
+  "homepage": "https://github.com/Ellioth-B/portfolio#readme"
 }
